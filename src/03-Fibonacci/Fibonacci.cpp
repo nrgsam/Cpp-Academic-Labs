@@ -1,3 +1,10 @@
+/*
+Print Fibonacci series up to N terms.
+Author: Ali Ghanizade
+Date: 1404-9-13
+*/
+
+
 #include "../utils/utils.h"
 #include <iostream>
 
