@@ -3,9 +3,9 @@ Get number of inputs from user and return the maximum number among them.
 Author: Ali Ghanizade
 Date: 1404-9-13
 */
+#include <iostream>
 
-
-#include "../utils/utils.h"
+#include "../../pkg/pkg.hpp"
 
 using namespace std;
 

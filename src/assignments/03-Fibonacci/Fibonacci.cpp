@@ -5,8 +5,9 @@ Date: 1404-9-13
 */
 
 
-#include "../utils/utils.h"
 #include <iostream>
+
+#include "../../pkg/pkg.hpp"
 
 void FibonacciFunction() {
     int number = GetNumber();

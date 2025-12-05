@@ -9,9 +9,7 @@ Version: 1.0
 
 #include <iostream>
 
-#include "../01-MaxNumber/MaxNumber.cpp"
-#include "../02-Divisibility/Divisibility.cpp"
-#include "../03-Fibonacci/Fibonacci.cpp"
+#include "../assignments/assignments.hpp"
 
 using namespace std;
 
