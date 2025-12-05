@@ -4,9 +4,8 @@ Author: Ali Ghanizade
 Date: 1404-9-13
 */
 
-#include <iostream>
 
-#include "../utils/GetNumber.cpp"
+#include "../utils/utils.h"
 
 using namespace std;
 
