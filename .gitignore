@@ -40,3 +40,8 @@ bin/*
 
 # debug information files
 *.dwo
+
+
+# IDE specific files
+.idea/
+.vscode/

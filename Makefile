@@ -8,6 +8,8 @@ SOURCES = $(wildcard $(SRCDIR)/*.cpp)
 SOURCES += $(wildcard $(SRCDIR)/*/*.cpp)
 SOURCES += $(wildcard $(SRCDIR)/*/*/*.cpp)
 SOURCES += $(wildcard $(SRCDIR)/*/*/*/*.cpp)
+SOURCES += $(wildcard $(SRCDIR)/*/*/*/*/*.cpp)
+
 
 OBJECTS = $(patsubst $(SRCDIR)/%.cpp,$(BINDIR)/%.o,$(SOURCES))
 
