@@ -18,7 +18,7 @@ int main(){
 
     //main var
     int NUmberOfTask;
-    const int countOfTasks = 4;
+    const int countOfTasks = 6;
     const int countOfMessage = 3;
 
     string Menu[countOfTasks+countOfMessage] ={" Please select the task number:",
@@ -26,6 +26,8 @@ int main(){
         " 2- Divisibility Function",
         " 3- Fibonacci Function ",
         " 4- Array Function ",
+        " 5- Decimal To Binary Function ",
+        " 6- Bubble Sort Function ",
         " 0- Exit ",
         "Your Choice: "} ;
 
@@ -50,6 +52,9 @@ int main(){
                 break;
             case 5 :
                 ConvertDecimalToBinaryFunction();
+                break;
+            case 6 :
+                BubbleSort();
                 break;
                 {
                     int subTaskNumber;

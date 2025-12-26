@@ -3,5 +3,6 @@
 #include "02-Divisibility/Divisibility.hpp"
 #include "03-Fibonacci/Fibonacci.hpp"
 #include "05-DecimalToBinary/DecimalToBinary.hpp"
+#include "06-BubbleSort/BubbleSort.hpp"
 
 #include "04-Array/Array.hpp"
