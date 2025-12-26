@@ -4,7 +4,7 @@ Date: 1404-9-18
 */
 #include <iostream>
 
-#include "../../../pkg/pkg.hpp"
+#include "../../pkg/pkg.hpp"
 
 using namespace std;
 
